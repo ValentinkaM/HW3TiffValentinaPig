@@ -1,0 +1,16 @@
+Title: Locate Top 10 Sales People who sold the most CDs after 6pm
+
+We historically have had low CD sales during our evening hours.  However, during COVID, our sales have significantly have increased. I wanted to locate the top 10 Sales People who sold the most CDs during the evening hours (after 6pm).  I determined that the following to 10 Sales People are the following:
+
+Sales Person 3 (Matthew Young) sold 12 CDs
+Sales Person 5 (John Suzuki) sold 9 CDs 
+Sales Person 15 (Ryan Garcia) sold 8 CDs
+Sales Person 14 (Sean Li) sold 8 CDs
+Sales Person 6 (Gregory Russell) sold 7 CDs
+Sales Person 2 (Bonnie Coleman) sold 7 CDs
+Sales Person 17 (Henry Mitchell) sold 7 CDs
+Sales Person 1 (Carlos Flores) sold 7 CDs
+Sales Person 11 (Joyce Watson) sold 7 CDs
+Sales Person 10 (Janice Rivera) sold 6 CDs
+
+I feel it is recommended we continue keeping these Sales People in the evening shifts to ensure our sales numbers remain high during evening hours.
