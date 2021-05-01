@@ -1,0 +1,11 @@
+Locate the 3 top stores that sold the most expensive CDs for the price of $10 or greater:
+2 discovered facts:
+
+1/ We are excited to announce that during difficult COVID time top three stores in Renton (98055),
+Redmond (98053), and Woodinville (98077) sold the most CDs for the price between $10 and $15.
+
+
+2/ We would like to offer incentives to the stores that sold the most CDs such as extra paid time off
+for the duration of 2 weeks. Store 98055 made the most sales for the price between $10 and $15 
+by selling 58 CDs. Store 98053 sold 52 CDs. Store 98077 sold 49 CDs. So, these three stores 
+deserve a bonus. 
